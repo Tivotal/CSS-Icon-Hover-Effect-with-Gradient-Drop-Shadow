@@ -90,7 +90,7 @@ body {
 
 .links .link:hover .icon {
   transform: scale(0);
-  color: #fff;
+  -webkit-text-stroke-color: #fff;
   transition-delay: 0s;
 }
 
